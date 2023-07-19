@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: #fffC00;
+}
+
+.navbar {
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+}
+
+#parte1-navbar {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    padding-left: 2rem;
+    gap: 1rem;
+    width: 35%;
+}
+
+#logo-snapchat {
+    width: 2rem;
+}
+
+#input-search {
+    background-color: #fffC00;
+    border: 1px solid black;
+    color: white;
+    border-radius: 2rem;
+    padding: 0.5rem;
+    font-size: 16px;
+    width: 12rem;
+}
+
+#parte2-navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    width: 30%;
+}
+
+#parte3-navbar {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    padding-right: 2rem;
+    width: 35%;
+    gap: 1rem;
+}
+
+.btn-navbar {
+    background-color: black;
+    color: white;
+    border-radius: 2rem;
+    padding: 0.5rem;
+    font-size: 16px;
+}
+
+.container-general {
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    height: 84vh;
+    margin: 1rem 10%;
+}
+
+.aside-left {
+    width: 30%;
+    height: 72vh;
+    padding-top: 5rem;
+}
+
+#mensaje-intro {
+    font-weight: 500;
+    font-size: 68px;
+    padding-bottom: 1rem;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 24px;
+    text-align: justify;
+    padding-bottom: 1rem;
+}
+
+#novedad {
+    font-size: 10px;
+    color: white;
+    font-weight: bold;
+    background-color: #0096e5;
+    border-radius: 15px;
+    padding: 4px;
+}
+
+.container-botones-intro {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 2rem;
+}
+
+#img-microsoft {
+    width: 44%;
+}
+
+.btn-iniciar {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border-radius: 2rem;
+    padding: 1rem;
+}
+
+.aside-right {
+    width: 50%;
+    height: 80vh;
+    padding: 0;
+}
+
+#img-snapchat {
+    width: 105%;
+    margin: 0;
+}
+
+
+.footer {
+    display: flex;
+   align-items: center;
+   justify-content: center;
+    background-color: black;
+    height: 4rem;
+    color: white;
+}
+
+.span-h5 {
+    color: #fffC00;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+
+
