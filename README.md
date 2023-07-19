@@ -1,2 +1,2 @@
 # Intro-Snapchat
-Copia pagina intri Snapchat
+Copia pagina intro Snapchat
